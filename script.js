@@ -150,7 +150,7 @@ const STORIES = [
 
 let currentStory = null;
 let currentPassageKey = "start";
-let soundsEnabled = true;
+let soundsEnabled = false;
 
 // --- DOM ELEMENTS -----------------------------------------------------------
 
